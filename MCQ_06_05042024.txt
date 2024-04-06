@@ -1,0 +1,93 @@
+1. Which statement is true about java?
+
+    a. Sequence dependent programming language
+
+    b. Code dependent programming language
+
+    c. Platform dependent programming language
+
+    d. Platform independent programming language
+
+Answer : d
+
+2. Which feature is not provided by Java.
+
+    a. Platform Independent
+
+    b. Built-In Thread Support
+
+    c. Object Oriented Programming
+
+    d. Operator Overloading
+
+Answer : d
+
+
+3. Which among the following feature is not in the general definition of OOPS?
+
+    a.  Modularity
+
+    b.  Efficient Code
+
+    c.  Code reusability
+
+    d.  Duplicate or Redundant Data
+
+Answer : d
+
+4. What will be the output of the below code?
+
+
+   public class Interviewbit {
+
+   public static void main(String args[]) {
+
+   int a = 4;
+
+   int b = 3;
+
+   System.out.println((ab)? a++: --b);
+   }
+  }
+
+  a.   4
+
+  b.   5
+
+  c.   2
+
+  d.   3
+
+Answer : c
+
+5. What will be the output of the following code?
+   
+    public class Interviewbit {
+
+    public int var;
+ 
+    Tester(int var) {
+
+    System.out.println(this.var);
+
+    public static void main(String args[]) {
+
+    Interviewbit interviewbit = new Interviewbit(20); System.out.println(this.var);
+
+    }
+
+  }
+
+   a.    0 20
+
+   b.    0 0
+
+   c.    compilation error: cannot use 'this' inside main
+
+   d.    20 0
+
+Answer : c
+
+
+
+
